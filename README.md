@@ -37,4 +37,4 @@ Contributions to the set are welcome! If you have new card ideas, design improve
 We welcome your feedback! If you have suggestions, questions, or comments regarding the Scaled Agile Risk Storming Set, please open an issue on the repository or contact the maintainers directly.
 
 Buy the Cards
-Buy the Cards here:[Cards @ Etsy](https://agilegames.etsy.com). 
+Buy the Cards here: [Cards @ Etsy](https://agilegames.etsy.com). 
