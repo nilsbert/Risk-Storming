@@ -5,6 +5,8 @@ The Scaled Agile Risk Storming Set is a collection of game cards designed to fac
 
 Version 0.1 of the set is now available, providing a fresh approach to enhancing team communication and fostering psychological safety during meetings such as Backlog Refinement or PI Planning.
 
+![Preview of the cards in the Risk Storming Deck](https://i.etsystatic.com/51074738/r/il/0b6a04/6483029621/il_1588xN.6483029621_qttl.jpg)
+
 ## Features
 - **Gamify Your Risk Detection**: Transform how your team identifies and manages risks.
 - **Boost Psychological Safety**: Foster an environment where team members feel secure sharing their concerns.
@@ -36,5 +38,4 @@ Contributions to the set are welcome! If you have new card ideas, design improve
 ## Feedback
 We welcome your feedback! If you have suggestions, questions, or comments regarding the Scaled Agile Risk Storming Set, please open an issue on the repository or contact the maintainers directly.
 
-Buy the Cards
 Buy the Cards here: [Cards @ Etsy](https://agilegames.etsy.com). 
